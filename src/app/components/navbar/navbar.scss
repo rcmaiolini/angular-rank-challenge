@@ -1,0 +1,23 @@
+.navbar-inverse {
+  background: #3F3A3F url(../assets/images/bg.png) repeat-x;
+  width: 100%;
+}
+
+.navbar-brand {
+  height: auto;
+}
+
+.navbar-brand {
+  > img {
+    display: inline-block;
+    height: 30px;
+  }
+}
+
+.acme-navbar-text{
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 14px;
+}
